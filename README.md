@@ -7,9 +7,9 @@
 
 - 🌱 and learning **Unity👾, MATLAB📈**
 
-- 👨‍💻 see my projects at [https://joelmills2.github.io/](https://joelmills2.github.io/)
-
 - 📖 while reading **Deep Learning-Yoshua Bengio + some cool papers**
+
+- 👨‍💻 see my projects at [https://joelmills2.github.io/](https://joelmills2.github.io/)
 
 - 📫 send me a message at **joelarimills@gmail.com**
 
