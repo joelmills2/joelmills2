@@ -1,5 +1,5 @@
-<h1 align="center">hey there, i'm joel</h1>
-<h3 align="center">i'm a second-year computer science student at Queen's University with passions for machine learning and start-ups.</h3>
+<h1 align="center">hi 👋</h1>
+<h3 align="center">i'm joel, a second-year computer science student at Queen's University with interests in machine learning and start-ups.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelmills2&label=Visitors&color=0de7bc&style=flat" alt="joelmills2" /> </p>
 
