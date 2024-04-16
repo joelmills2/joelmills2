@@ -5,7 +5,7 @@
 
 - 🔭 i’m currently working on [Guava](https://www.downloadguava.com/)
 
-- 🌱 and learning **Unity👾, MATLAB📈**
+- 🌱 and learning **PyTorch🗽, MATLAB📈**
 
 - 📖 while reading **Deep Learning-Yoshua Bengio + some cool papers**
 
