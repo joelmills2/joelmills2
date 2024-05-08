@@ -7,7 +7,7 @@
 
 - 🌱 and learning **PyTorch🗽, MATLAB📈**
 
-- 📖 while reading **Deep Learning-Yoshua Bengio + some cool papers**
+- 📖 while reading **Deep Learning-Yoshua Bengio + ML in 100 pages-Andriy Burkov**
 
 - 👨‍💻 see my projects at [https://joelmills2.github.io/](https://joelmills2.github.io/)
 
