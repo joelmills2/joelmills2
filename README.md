@@ -5,7 +5,7 @@
 
 - 🔭 i’m currently working on [Guava](https://www.downloadguava.com/)
 
-- 🌱 and learning **PyTorch🗽, MATLAB📈**
+- 🌱 and learning **ML and Deep Learning**
 
 - 📖 while reading **Deep Learning-Yoshua Bengio + ML in 100 pages-Andriy Burkov**
 
