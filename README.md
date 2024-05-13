@@ -5,15 +5,13 @@
 
 - 🔭 i’m currently working on [Guava](https://www.downloadguava.com/)
 
-- 🌱 and learning **ML and Deep Learning**
-
-- 📖 while reading **Deep Learning-Yoshua Bengio + ML in 100 pages-Andriy Burkov**
+- 📖 while reading **Deep Learning-Goodfellow, Courville, Bengio + Machine Learning Engineering-Burkov**
 
 - 👨‍💻 see my projects at [https://joelmills2.github.io/](https://joelmills2.github.io/)
 
 - 📫 send me a message at **joelarimills@gmail.com**
 
-- 📄 take a look at my resume [https://rb.gy/a059mf](https://rb.gy/a059mf)
+- 📄 take a look at my resume [https://rb.gy/a059mf](https://rb.gy/3hvacj)
 
 - ⚡ fun fact **i'm studying in Australia🇦🇺 for a semester next year**
 
