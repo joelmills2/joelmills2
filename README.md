@@ -1,11 +1,11 @@
 <h1 align="center">hi 👋</h1>
-<h3 align="center">i'm joel, a second-year computer science student at Queen's University with interests in machine learning and start-ups.</h3>
+<h3 align="center">i'm joel, a third-year computer science student at Queen's University with interests in machine learning and start-ups.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelmills2&label=Visitors&color=0de7bc&style=flat" alt="joelmills2" /> </p>
 
 - 🔭 i’m currently working on [Guava](https://www.downloadguava.com/)
 
-- 📖 while reading **Deep Learning-Goodfellow, Courville, Bengio + Machine Learning Engineering-Burkov**
+- 📖 while reading **Little Book of Deep Learning - Francois Fleuret**
 
 - 👨‍💻 see my projects at [https://joelmills2.github.io/](https://joelmills2.github.io/)
 
