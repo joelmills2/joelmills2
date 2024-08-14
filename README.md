@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelmills2&label=Visitors&color=0de7bc&style=flat" alt="joelmills2" /> </p>
 
-- 🔭 i’m currently working on [Guava](https://www.downloadguava.com/)
+- 🛠️ i’m currently building a start-up called Teal
 
 - 📖 while reading **Little Book of Deep Learning - Francois Fleuret**
 
 - 👨‍💻 see my projects at [https://joelmills2.github.io/](https://joelmills2.github.io/)
 
 - 📫 send me a message at **joelarimills@gmail.com**
-
-- 📄 take a look at my resume [https://rb.gy/a059mf](https://rb.gy/3hvacj)
 
 - ⚡ fun fact **i'm studying in Australia🇦🇺 for a semester next year**
 
