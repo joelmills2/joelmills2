@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelmills2&label=Visitors&color=0de7bc&style=flat" alt="joelmills2" /> </p>
 
-- 🛠️ i’m currently building a start-up called Teal
-
-- 📖 while reading **Little Book of Deep Learning - Francois Fleuret**
+- 🛠️ looking to build something cool...
 
 - 👨‍💻 see my projects at [https://joelmills2.github.io/](https://joelmills2.github.io/)
 
